@@ -1,0 +1,69 @@
+- OOS-inspired UI:
+  - accent color
+  - oneplus slate font
+  - systemui and core icons
+  - launcher widget
+  - clear all button
+  - qs tiles layout
+  - brightness slider
+  - small oreo-like data type icon
+  - traffic indicator for wifi and mobile data
+  - volte/vowifi multi-sim icon
+  - refreshed settings ui
+  - better looking gesture pill
+  - and some goodies here n there like cherry on the cake
+
+- CAF functionality improvements/enhancements:
+  - bluetooth a2dp hw offload
+  - audio policy extensions
+  - camera extensions
+  - telephony framework
+  - individual sim toggle (for dualsim devices)
+  - wifi display/miracast
+  - hardware accelerated screen recording
+  - nq nfc support (for nfc supported devices)
+  - gallery app (better than aosp Gallery2)
+  - power off alarm in inbuilt clock app
+  - performance improvements & fixes throughout the system
+
+- accent color, font, icon shape, icon pack customization
+- black dark theme
+- statusbar icons tuner
+- face unlock
+- expandable volume panel
+- lockscreen smartspace
+- immersive navigation
+- 3 finger swipe to screenshot
+- cycle through ringer modes
+- adaptive playback
+- long press power button to toggle flashlight
+- long press volume button to skip track
+- advanced reboot (recovery/bootloader/system)
+- horizon light aka pulse
+- battery light toggle
+- qs quick pulldown
+- caffeine, data switch, reading mode qs tile
+- clear all and share button on recents
+- app suggestions on launcher
+- improved statusbar pulldown blur
+- added blur to launcher drawer and power menu
+- double tap to sleep on statusbar, launcher, lockscreen
+- more control over font size
+- mini panels for wifi, bluetooth, nfc
+- per-app network restrictions
+- enhanced battery status from Google Turbo
+- additional charging info on lockscreen
+- statusbar bluetooth battery level
+- nfc tile for devices with nfc
+- bring back 2 button navigation from pie
+- delete button for screenshots
+- show 3 qs columns when media player is inactive
+- faster fingerprint wakeup
+- enabled iorap and zygote preforking (for faster app launch)
+- one click to add/remove qs tiles
+- camera and assistant shortcut on lockscreen
+- hacks to bypass safetynet and root detection
+- few pixel features like assist disclosure, live captions
+- optimizations and fixes from AOSPA, ProtonAOSP & upstream AOSP
+- included mixplorer and via browser
+- something else which we might've missed
