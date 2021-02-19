@@ -1,0 +1,51 @@
+Version 4.1
+
+- Merged February 2021 security patch (r29)
+- QS panel redesign
+  - Show brightness slider in Quick QS
+  - Add data usage in QS footer
+  - Improve overall aesthetic
+- Added OnePlus Sans font for that OOS 11 look
+- OOS-style network speed indicator on statusbar/QS
+- Added long/scrolling screenshot (Asus StitchImage)
+- Added toggle to allow hotspot/tethering to use VPN
+- Added multi SIM ringtone setting
+- Added FOD support in source
+- Added battery icon styles (circle/bar/hidden)
+- Added blinking stop dot and low quality toggle for screen recorder
+- Added toggle for statusbar privacy indicators and VPN icon
+- Added a bunch of useful QS tiles:
+  - Heads Up (peek notifications)
+  - USB tethering
+  - Screenshot (partial/full)
+  - Sound (ringer modes)
+  - Reboot (system/recovery)
+  - Headphones Buddy
+- Added lockscreen media art toggle and blur level
+- Allow to swipe up on lockscreen to use face unlock
+- Fixed multitouch broken in 3 swipe to screenshot
+- Fixed lockscreen mic (assistant) icon crash
+- Fixed volume panel not responding in landscape mode
+- Disabled blur wakeup animation
+- Show 4 columns in QS customizer UI
+- Fixed random unwanted screen wakeups
+- Reduced scroll friction for smoother scrolling
+- Enabled all permission hub options in Settings
+- Major improvements to settings UI and UX
+- Added pixel offline charger animation for supported devices
+- Removed prebuilt mixplorer app
+- Switched to Simple Gallery app
+- Flattened APEXes for improved performance
+- Increased 5GHz wifi signal tolerance
+- Updated system wide telephony stack to LA.QSSI.11.0.r1-09600-qssi.0
+- Updated sqlite to latest version (3.34.1)
+- Enabled IO prefetcher for faster app launch/load
+- Merged touch response optimizations from CAF
+- Switched to clang 13 with polly and O3 (system-wide performance boost)
+- SCUDO memory allocator performance improvements
+- CCodec (codec2) optimizations from aosp master
+- ART (Android Run Time) optimizations from aosp master
+- Improved binder and hwbinder performance
+- SurfaceFlinger optimizations from aosp master
+- Bionic updates from upstream FreeBSD
+- Misc stability fixes and optimizations
