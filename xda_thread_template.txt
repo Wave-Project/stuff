@@ -1,9 +1,9 @@
-Title: [ROM][11.0] WaveOS 4.0 Rasmalai for Device Name [UN/OFFICIAL][CODENAME]
+Title: [ROM][11.0] WaveOS 4.1 Rasmalai for Device Name [UN/OFFICIAL][CODENAME]
 ----------------------------
 
 [CENTER][IMG width="850px"]https://i.imgur.com/kE5OXxb.jpg[/IMG]
 
-[COLOR=rgb(33, 150, 243)][SIZE=6][B][U][FONT=trebuchet ms]WaveOS 4.0 - Rasmalai[/FONT][/U] [/B][/SIZE][SIZE=7][B][U][FONT=trebuchet ms]🌊[/FONT][/U][/B][/SIZE][/COLOR]
+[COLOR=rgb(33, 150, 243)][SIZE=6][B][U][FONT=trebuchet ms]WaveOS 4.1 - Rasmalai[/FONT][/U] [/B][/SIZE][SIZE=7][B][U][FONT=trebuchet ms]🌊[/FONT][/U][/B][/SIZE][/COLOR]
 
 [SIZE=4]WaveOS is an android custom ROM based on AOSP, focused on delivering a perfect blend of aesthetics, functionality and performance out of the box. The version 4.X is based on Android 11. Various optimizations and enhancements have been merged from CAF and upstream AOSP to maximize performance and battery backup, and improve OS functionality. We provide a unique and beautiful user interface out-of-the-box that's inspired by OnePlus' OxygenOS, and can be tweaked to your liking. We've also added handy features and customizations that improves user experience and proves to be useful at the end of the day, rather than bloating the ROM with unwanted features and customizations that could cause stability issues. We hope you like it! #NeverBetter[/SIZE]
 
