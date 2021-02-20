@@ -5,7 +5,7 @@ Title: [ROM][11.0] WaveOS 4.1 Rasmalai for Device Name [UN/OFFICIAL][CODENAME]
 
 [COLOR=rgb(33, 150, 243)][SIZE=6][B][U][FONT=trebuchet ms]WaveOS 4.1 - Rasmalai[/FONT][/U] [/B][/SIZE][SIZE=7][B][U][FONT=trebuchet ms]🌊[/FONT][/U][/B][/SIZE][/COLOR]
 
-[SIZE=4]WaveOS is an android custom ROM based on AOSP, focused on delivering a perfect blend of aesthetics, functionality and performance out of the box. The version 4.X is based on Android 11. Various optimizations and enhancements have been merged from CAF and upstream AOSP to maximize performance and battery backup, and improve OS functionality. We provide a unique and beautiful user interface out-of-the-box that's inspired by OnePlus' OxygenOS, and can be tweaked to your liking. We've also added handy features and customizations that improves user experience and proves to be useful at the end of the day, rather than bloating the ROM with unwanted features and customizations that could cause stability issues. We hope you like it! #NeverBetter[/SIZE]
+[SIZE=4]WaveOS is an android custom ROM based on AOSP, focused on delivering a perfect blend of aesthetics, functionality and performance out of the box. This version (4.X) is based on Android 11. Various optimizations and enhancements have been merged from CAF and upstream AOSP to maximize performance and battery backup, and improve OS functionality. We provide a unique and beautiful user interface out-of-the-box that's inspired by OnePlus' OxygenOS and can be tweaked to your liking. We've also added handy features and customizations that improve user experience and prove to be useful at the end of the day, rather than bloating the ROM with unwanted features and customizations that could cause stability issues. We hope you like it! #NeverBetter[/SIZE]
 
 [CODE]/* Your warranty is now void.
 *
@@ -17,7 +17,7 @@ Title: [ROM][11.0] WaveOS 4.1 Rasmalai for Device Name [UN/OFFICIAL][CODENAME]
 */[/CODE]
 
 [SIZE=4][B][U]Features[/U][/B][/SIZE]
-Head over to our full features list at [URL='https://raw.githubusercontent.com/Wave-Project/stuff/main/features_list.txt']GitHub[/URL]
+Head over to our full features list at [URL='https://raw.githubusercontent.com/Wave-Project/stuff/main/features_list.txt']GitHub[/URL] | [URL='https://raw.githubusercontent.com/Wave-Project/stuff/main/changelog.txt']Changelogs[/URL]
 [B]GApps included[/B]
 
 [SIZE=4][B][U]Device-specific features[/U][/B][/SIZE]
@@ -32,15 +32,22 @@ You tell me!
 
 [IMG width="545px"]https://i.imgur.com/vhwxixH.png[/IMG]
 
-[SIZE=4][B]ROM[/B]: [URL]https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/**codename**/[/URL]
-[SIZE=4][B]Magisk: [/B][URL unfurl="false"]https://github.com/topjohnwu/Magisk/releases[/URL]
-**ADD MORE DOWNLOADS IF NECESASSARY*
+[SIZE=4][B]ROM[/B]: [URL]https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/**CODENAME**/[/URL]
+[B]Magisk: [/B][URL unfurl="false"]https://github.com/topjohnwu/Magisk/releases[/URL][/SIZE]
+**ADD MORE DOWNLOADS IF NECESSARY*
 
 [B][U][SIZE=4]INSTRUCTIONS[/SIZE][/U][/B]
 Reboot to recovery
-Wipe data, cache and dalvik if coming from another ROM
+Wipe data, cache, and dalvik if coming from another ROM
+Flash ROM zip
+(optional) Flash Magisk
 Format data if encrypted
-Flash ROM (gapps included)
+Reboot and voila!
+
+[B][U]Upgrading to a Newer Build[/U][/B]
+Reboot to recovery
+Wipe cache and dalvik
+Flash ROM zip
 (optional) Flash Magisk
 Reboot and voila!
 
@@ -50,4 +57,5 @@ Reboot and voila!
 ROM and device sources: [URL]https://github.com/Wave-Project/[/URL]
 Kernel source: [URL]**INSERT KERNEL SOURCE LINK HERE**[/URL]
 
+Cheers and #NeverBetter 🌊
 [/CENTER]
