@@ -26,6 +26,7 @@ Version 4.1
 - Fixed multitouch broken in 3 swipe to screenshot
 - Fixed lockscreen mic (assistant) icon crash
 - Fixed volume panel not responding in landscape mode
+- Official builds signed with our own private release keys
 - Disabled blur wakeup animation
 - Show 4 columns in QS customizer UI
 - Fixed random unwanted screen wakeups

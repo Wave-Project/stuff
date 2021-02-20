@@ -28,6 +28,7 @@
   - Touch response optimizations
   - Performance improvements & fixes throughout the system
 
+- Official builds signed with our own private release keys
 - Accent color, font, icon shape, icon pack customization
 - Black dark theme
 - Statusbar icons tuner
