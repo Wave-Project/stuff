@@ -12,7 +12,8 @@
       "Misc optimizations and stability fixes"
     ],
     "latest_version": "4.1 Android11",
-    "maintainer_name": "ghostrider-reborn"
+    "maintainer_name": "ghostrider-reborn",
+    "xda_link": "https://forum.xda-developers.com/t/rom-11-0-waveos-4-0-rasmalai-for-poco-x3-official-unified.4220999/post-84522391"
   },
   {
     "name": "Redmi Note 8",
@@ -24,7 +25,8 @@
       "Initial Build"
     ],
     "latest_version": "4.1 Android11",
-    "maintainer_name": "ghostrider-reborn"
+    "maintainer_name": "ghostrider-reborn",
+    "xda_link": ""
   },
   {
     "name": "Redmi 3s",
@@ -38,6 +40,7 @@
       "Increase headset and mic volumes"
     ],
     "latest_version": "4.1 Android11",
-    "maintainer_name": "Himanshu"
+    "maintainer_name": "Himanshu",
+    "xda_link": "https://forum.xda-developers.com/t/rom-11-0-waveos-4-1-rasmalai-for-redmi-3s-official-land.4221035/"
   }
 ]
