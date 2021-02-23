@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Poco X3",
+    "brand": "Poco",
+    "codename": "Surya",
+    "filelink": "https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/surya/WaveOS_surya-R-v4.1-20210219-0749-OFFICIAL-signed.zip/download",
+    "filename": "WaveOS_surya-R-v4.1-20210219-0749-OFFICIAL-signed.zip",
+    "changelogs": [
+      "Added new refresh rate QS tile (60-90-120hz)",
+      "Per-app touchscreen profiles for gaming mode",
+      "Enabled 64bit dex2oat to improve app performance",
+      "Misc optimizations and stability fixes"
+    ],
+    "latest_version": "4.1 Android11",
+    "maintainer_name": "ghostrider-reborn"
+  },
+  {
+    "name": "Redmi Note 8",
+    "brand": "Xiaomi",
+    "codename": "Ginkgo",
+    "filelink": "https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/ginkgo/WaveOS_ginkgo-R-v4.1-20210219-0806-OFFICIAL-signed.zip/download",
+    "filename": "WaveOS_ginkgo-R-v4.1-20210219-0806-OFFICIAL-signed.zip",
+    "changelogs": [
+      "Initial Build"
+    ],
+    "latest_version": "4.1 Android11",
+    "maintainer_name": "ghostrider-reborn"
+  },
+  {
+    "name": "Redmi 3s",
+    "brand": "Xiaomi",
+    "codename": "land",
+    "filelink": "https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/land/WaveOS_land-R-v4.1-20210219-1001-OFFICIAL-signed.zip/download",
+    "filename": "WaveOS_land-R-v4.1-20210219-1001-OFFICIAL-signed.zip",
+    "changelogs": [
+      "Added FMRadio App",
+      "Updated GPS blobs",
+      "Increase headset and mic volumes"
+    ],
+    "latest_version": "4.1 Android11",
+    "maintainer_name": "Himanshu"
+  }
+]
