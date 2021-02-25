@@ -16,6 +16,23 @@
     "xda_link": "https://forum.xda-developers.com/t/rom-11-0-waveos-4-0-rasmalai-for-poco-x3-official-unified.4220999/post-84522391"
   },
   {
+    "name": "Realme 2 Pro",
+    "brand": "Realme",
+    "codename": "RMX1801",
+    "filelink": "https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/RMX1801/WaveOS_RMX1801-R-v4.1-20210219-1208-OFFICIAL-signed.zip/download",
+    "filename": "WaveOS_RMX1801-R-v4.1-20210219-1208-OFFICIAL-signed.zip",
+    "changelogs": [
+      "Added F2FS Support",
+      "Updated Build FP to Redfin February",
+      "Removed RealmeParts",
+      "Updated qti telephony to LA.QSSI.11.0.r1-09400-qssi.0",
+      "Misc optimizations and stability fixes"
+    ],
+    "latest_version": "4.1 Android11",
+    "maintainer_name": "ad1tyas1ngh",
+    "xda_link": "https://forum.xda-developers.com/t/rom-11-0-waveos-4-1-rasmalai-for-realme-2-pro-official-rmx1801.4221135/"
+  },
+  {
     "name": "Redmi Note 8",
     "brand": "Xiaomi",
     "codename": "Ginkgo",
