@@ -1,3 +1,55 @@
+Version 4.3
+
+- Merged March and April 2021 security patch (android-11.0.0_r34)
+- Fresh new WaveOS wallpapers! (Thanks to Emma, Glitch, Amartya and WSTxda)
+- Switched to AOSP theme picker for customization
+- Added various lockscreen clocks and launcher grids
+- Added App Lock from AOSPA with improvements
+- Added pocket mode with revamped OOS-like UI
+- Added nav bar layout inversion toggle
+- Added in-call vibration options
+- Added toggle to disable notification sound if screen is on
+- Added QS media player allowed apps setting
+- Added gestures back swipe deadzone setting
+- Added missing gesture and battery animations in settings
+- Added min/max/powersave refresh rate settings for supported devices
+- Added toggle for fingerprint unlock on power button press (in side mounted devices)
+- Revamped display settings and few settings icons
+- Separated toggle for charging and low battery LED light
+- Show wifi usage on QS when wifi connected
+- Updated prebuilt apps (via browser, simple gallery)
+- Updated inbuilt gapps to March 2021 (11_202103)
+- Updated SQLite to latest version
+- Updated LMKD and scudo (memory allocator) from CAF
+- Added a big bunch of new accent colors
+- Switched to new icon pack implementation in launcher
+- Fixed crash with lower font size
+- Fixed and improved lockscreen charging info
+- Added bolt while charging in hidden battery style
+- Fixed few issues with vowifi icon
+- Improved partial screenshots
+- Various improvements to FOD from LineageOS
+- Fixed few statusbar icon margins and sizes
+- Improved scrolling smoothness/responsiveness
+- Burn-in protection on status/navbar for supported devices
+- Google Play mainline system updates on supported devices
+- Toast for screenshot deletion
+- Notification for screenshot saved
+- Reduced debugging overhead across framework and runtime
+- Enabled ThinLTO and -O3 optimization for various system components
+- Clear-all button UI and UX improvements
+- Disable fingerprint vibrations in silent mode
+- Disabled screen-on animation on wakeup
+- Updated pixel ringtones/alarms/notifs/effects from Pixel 5
+- Improved pixel offline charging animation
+- Enable IORap (IO prefetching) for faster app launch
+- ZLib performance improvements from chromium-master
+- Dex-speed-preopt all apps for better performance
+- Enabled cached app freezer on supported devices
+- Updated CAF telephony to LA.QSSI.11.0.r1-11100-qssi.0 (on supported devices)
+- Performance improvements and optimizations from AOSP master, ProtonAOSP and CAF
+- Misc bug fixes and stability improvements
+
 Version 4.1
 
 - Merged February 2021 security patch (r29)
