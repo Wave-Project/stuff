@@ -1,3 +1,3 @@
-# stuff
+# Stuff
 
-Some miscellaneous stuff/documentation related to WaveOS
+Some miscellaneous stuff/documentation related to WaveOS.
