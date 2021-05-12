@@ -1,0 +1,13 @@
+{
+	"builds": [
+		{
+			"url": "https://sourceforge.net/projects/wave-os/files/rasmalai-4.x/land/WaveOS_land-R-v4.1-20210219-1001-OFFICIAL-signed.zip/download",
+			"build_type": "gapps",
+			"build_date": "1620861230",
+			"version": "4.4",
+			"filename": "WaveOS_land-R-v4.1-20210219-1001-OFFICIAL-signed.zip",
+			"size": "1620983014",
+			"md5": "ccc87e7257869ad33a6a0bd9e28a4ae4"
+		}
+	]
+}
