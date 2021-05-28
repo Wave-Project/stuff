@@ -1,0 +1,13 @@
+{
+    "results": [
+        {
+            "url": "putdirectlink",
+            "build_date": 1620615646,
+            "build_type": "OFFICIAL",
+            "filename": "putfilename",
+            "md5": "putmd5",
+            "size": putsize,
+            "version": "4.3"
+        }
+    ]
+}
