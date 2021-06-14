@@ -1,15 +1,18 @@
 {
   "Realme": {
     "RMX1801": {
+      "devicename": "Realme 2 Pro",
       "maintainer": "@Ad1tyaS1ngh"
     }
   },
   "Xiaomi": {
    "raphael": {
+     "devicename": "Xiaomi Redmi K20 Pro",
      "maintainer": "@pavanpaps"
     },
    "violet": {
+     "devicename": "Xiaomi Redmi Note 7 Pro",
      "maintainer": "@raghavt20"
     }
-  } 
+  }
 }
