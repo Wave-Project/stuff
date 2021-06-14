@@ -9,6 +9,10 @@
     "RMX1801": {
       "devicename": "Realme 2 Pro",
       "maintainer": "@Ad1tyaS1ngh"
+    },
+    "RMX2185": {
+      "devicename": "Realme C11",
+      "maintainer": "@minatiscape"
     }
   },
   "Xiaomi": {
