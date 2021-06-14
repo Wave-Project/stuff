@@ -23,6 +23,14 @@
     "lavender": {
      "devicename": "Xiaomi Redmi Note 7",
      "maintainer": "@linuxislob"
-    }
+    },
+    "lancelot": {
+      "devicename": "Xiaomi Redmi 9",
+      "maintainer": "@henloboi"
+     },
+     "miatoll": {
+      "devicename": "Xiaomi Redmi Note 9S",
+      "maintainer": "@henloboi"
+     }
   }
 }
