@@ -1,4 +1,10 @@
 {
+  "Asus": {
+    "X01AD": {
+      "devicename": "Asus Max M2",
+      "maintainer": "@danascape"
+    }
+  },
   "Realme": {
     "RMX1801": {
       "devicename": "Realme 2 Pro",
