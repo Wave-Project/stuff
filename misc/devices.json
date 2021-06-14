@@ -13,6 +13,10 @@
    "violet": {
      "devicename": "Xiaomi Redmi Note 7 Pro",
      "maintainer": "@raghavt20"
+    },
+    "lavender": {
+     "devicename": "Xiaomi Redmi Note 7",
+     "maintainer": "@linuxislob"
     }
   }
 }
