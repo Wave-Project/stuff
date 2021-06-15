@@ -5,6 +5,12 @@
       "maintainer": "@danascape"
     }
   },
+  "Lenovo": {
+    "jd2019" :{
+      "devicename": "Lenovo Z5s",
+      "maintainer": "@victor10520"
+    }
+  },
   "Realme": {
     "RMX1801": {
       "devicename": "Realme 2 Pro",
