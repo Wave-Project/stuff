@@ -22,6 +22,10 @@
     }
   },
   "Xiaomi": {
+   "land": {
+     "devicename": "Xiaomi Redmi 3s",
+     "maintainer": "@ThePerfectCat"
+    },
    "raphael": {
      "devicename": "Xiaomi Redmi K20 Pro",
      "maintainer": "@pavanpaps"
