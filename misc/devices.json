@@ -11,6 +11,16 @@
       "maintainer": "@victor10520"
     }
   },
+  "Poco": {
+    "beryllium": {
+      "devicename": "POCO F1",
+      "maintainer": "@mukul2259"
+    },
+    "surya": {
+      "devicename": "POCO X3",
+      "maintainer": "@ghostrider_reborn"
+    }
+  },
   "Realme": {
     "x3": {
       "devicename": "Realme X3",
@@ -26,33 +36,33 @@
     }
   },
   "Xiaomi": {
-    "surya": {
-      "devicename": "POCO X3",
-      "maintainer": "@ghostrider_reborn"
-    },
-    "ginkgo": {
-      "devicename": "Xiaomi Redmi Note 8",
-      "maintainer": "@ghostrider_reborn"
-    },
     "land": {
       "devicename": "Xiaomi Redmi 3s",
       "maintainer": "@ThePerfectCat"
+    },
+    "lancelot": {
+      "devicename": "Xiaomi Redmi 9",
+      "maintainer": "@henloboi"
     },
     "raphael": {
       "devicename": "Xiaomi Redmi K20 Pro",
       "maintainer": "@pavanpaps"
     },
-    "violet": {
-      "devicename": "Xiaomi Redmi Note 7 Pro",
-      "maintainer": "@raghavt20"
+    "mido": {
+      "devicename": "Xiaomi Redmi Note 4/4x",
+      "maintainer": "@SeekNDstroy"
     },
     "lavender": {
       "devicename": "Xiaomi Redmi Note 7",
       "maintainer": "@linuxislob"
     },
-    "lancelot": {
-      "devicename": "Xiaomi Redmi 9",
-      "maintainer": "@henloboi"
+    "violet": {
+      "devicename": "Xiaomi Redmi Note 7 Pro",
+      "maintainer": "@raghavt20"
+    },
+    "ginkgo": {
+      "devicename": "Xiaomi Redmi Note 8",
+      "maintainer": "@ghostrider_reborn"
     },
     "miatoll": {
       "devicename": "Xiaomi Redmi Note 9S",
