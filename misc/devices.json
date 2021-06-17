@@ -44,6 +44,10 @@
       "devicename": "Xiaomi Redmi 9",
       "maintainer": "@henloboi"
     },
+    "davinci": {
+      "devicename": "Xiaomi Redmi K20",
+      "maintainer": "@maade69"
+    },
     "raphael": {
       "devicename": "Xiaomi Redmi K20 Pro",
       "maintainer": "@pavanpaps"
