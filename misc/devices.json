@@ -67,6 +67,10 @@
     "miatoll": {
       "devicename": "Xiaomi Redmi Note 9S",
       "maintainer": "@henloboi"
+    },
+    "sweet": {
+      "devicename": "Xiaomi Redmi Note 10 Pro",
+      "maintainer": "@MainPandaHoon"
     }
   }
 }
