@@ -1,3 +1,39 @@
+Version 4.5
+
+- Merged May and June security patch (android-11.0.0_r38 / qpr3)
+- Moar WaveOS wallpapers (from Amaan CG)
+- Switched to Google Chrome as default browser
+- Updated GApps (gms) to June 2021 (11_202106)
+- Separate toggles for statusbar/qs network traffic
+- Bluetooth disabled by default on first boot
+- VOOC/WARP/DASH/fast charge indication on support devices
+- Reset battery settings option
+- Sammy highlight, Fluid lockscreen clocks
+- Daily/monthly wifi & mobile data usage on QS
+- Fixed navbar pill randomly appearing in landscape
+- SafetyNet passing without full fingerprint spoofing
+- Disabled broken zygote preforking
+- New FOD icon and animations
+- Fine-tuned Quick Settings layout
+- New face unlock from PixelExperience
+- Support for apps authentication with face
+- 3-mode display cutout handler (Notch City)
+- Toggle for using LTE icon instead of 4G
+- Hardware buttons and backlight customization
+- Fixed QS brightness slider in landscape
+- New spring animation in settings homepage
+- Revamped About Phone in settings
+- Temperature display in battery settings
+- Global ThinLTO (Link Time Optimization) with Clang 12
+- Disabled StrictMode debugging overhead
+- Blur optimizations from ProtonAOSP
+- Optimizations and fixes from AOSP Master
+- CAF telephony framework updated to LA.QSSI.11.0.r1-12300
+- CAF vendor repos updated to LA.UM.9.12.r1-11500-SMxx50
+- Userspace LMK (lowmemorykiller) updated from CAF
+- Misc bug fixes and stability improvements
+
+
 Version 4.3
 
 - Merged March and April 2021 security patch (android-11.0.0_r34)
