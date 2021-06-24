@@ -30,26 +30,32 @@
   - LMKD and scudo optimizations
   - Performance improvements & fixes throughout the system
 
-- April security patch (android-11.0.0_r34)
+- June security patch (android-11.0.0_r38 / qpr3)
 - Official builds signed with our own private release keys
 - Accent color, font, icon shape, icon pack, customization
 - Custom lockscreen clocks and launcher grid sizes
 - Sexy in-house WaveOS wallpapers included
+- SafetyNet passing without full fingerprint spoofing
 - Black dark theme
 - Statusbar icons tuner
-- Face unlock
+- Face unlock with apps authentication support
 - App locker
 - Pocket mode
 - Expandable volume panel
 - Lockscreen smartspace
 - Immersive navigation
+- 3-mode display cutout handler (Notch City)
 - 3 finger swipe to screenshot
 - Cycle through ringer modes
 - Adaptive playback
 - Long press power button to toggle flashlight
 - Long press volume button to skip track
 - Press power button to unlock fingerprint (side fp devices)
+- Reset battery stats option
+- Temperature display in battery settings
+- Hardware buttons and backlight customization
 - Refresh rate (min/max/powersave) options for supported devices
+- VOOC/WARP/DASH/fast charge indication on supported devices
 - Advanced reboot (recovery/bootloader/system)
 - Horizon light aka pulse
 - Battery light toggle for charging and low battery
@@ -61,6 +67,7 @@
 - Gesture navigation back swipe deadzone
 - Navigation bar invert back and recents button
 - Disable notification sound when sreen on
+- Toggle for using LTE icon instead of 4G
 - Bunch of useful QS tiles in addition to AOSP ones:
   - Caffeine
   - Data Switch
@@ -71,6 +78,7 @@
   - Sound (ringer modes)
   - Reboot (system/recovery)
   - Headphones Buddy
+- New FOD icon and animations
 - Lockscreen media art and blur level controls
 - Clear all and share button on recents
 - App suggestions and icon pack support in launcher
@@ -95,17 +103,16 @@
 - Faster fingerprint wakeup
 - Pixel offline charging animation (for supported devices)
 - Pixel sounds (effects, ringtones, notifications, alarm)
-- Enabled iorap and zygote preforking (for faster app launch)
 - One click to add/remove QS tiles
 - Camera and assistant shortcut on lockscreen
-- Hacks to bypass safetynet and root detection
+- Disabled StrictMode debugging overhead
 - Few pixel features like assist disclosure, live captions
 - Google Play mainline system updates (on supported devices)
-- Switched to clang 13 with polly and O3 (system-wide performance boost)
-- Enabled ThinLTO for various system components
-- Reduced debugging overhead through the system
+- Switched to clang 12 with polly, O3 and ThinLTO (system-wide performance boost)
+- Reduced debugging overhead throughout the system
 - Cached app freezer to save power (on supported devices)
 - Dex-speed-preopt all apps for better performance
+- Global ThinLTO (Link Time Optimization) with Clang 12 
 - Optimizations and fixes from AOSPA, ProtonAOSP & upstream AOSP master
-- Included Simple Gallery and Via Browser
+- Included Simple Gallery instead of Google Photos
 - Something else which we might've missed :D
