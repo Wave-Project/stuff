@@ -1,3 +1,33 @@
+Version 4.7
+
+- Merged July and August security patches (android-11.0.0_r39 & r40)
+- Separate vanilla builds for official devices
+- New long screenshot implementation and screenshot UI
+- Ringer vibration patterns from OxygenOS
+- Vibration strength control for supported devices
+- Removed restrictions for system audio recording (screen recorder)
+- Added OyxgenOS lockscreen clock and improved typographic clock
+- Fixed preview rendering for fluid clock
+- Display color balance (RGB) control for all devices
+- Added screen off FOD (for supported devices)
+- Added per-app cutout force fullscreen (for supported devices)
+- Added per-app volume control in volume panel
+- Fixed applock issues (such as notification bypassing app lock)
+- Fixed inverted volte/vowifi icon sim number on some devices
+- Fixed volume panel animation with left-side volume panel
+- Disabled all-caps text on smart reply buttons
+- Added preferred refresh rate control (for supported devices)
+- Reduced UI blur strength to make it look nicer
+- Fixed some blur issues in launcher (app drawer, etc)
+- Added kill app button in recent apps long press menu
+- Added option for swiping lockscreen for face unlock
+- Re-enabled zygote preforking and disabled iorap tracing
+- Switched to zlib-ng and jemalloc for better performance
+- Minor optimizations and hardening in bionic (libc/libm)
+- Fixed scrolling lag in some apps (instagram, flipkart etc)
+- Added support for some proprietary chargers
+- Misc optimizations and improvements
+
 Version 4.5
 
 - Merged May and June security patch (android-11.0.0_r38 / qpr3)
@@ -32,7 +62,6 @@ Version 4.5
 - CAF vendor repos updated to LA.UM.9.12.r1-11500-SMxx50
 - Userspace LMK (lowmemorykiller) updated from CAF
 - Misc bug fixes and stability improvements
-
 
 Version 4.3
 
