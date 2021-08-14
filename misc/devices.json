@@ -40,9 +40,9 @@
       "devicename": "Xiaomi Redmi 3s",
       "maintainer": "@ThePerfectCat"
     },
-    "lancelot": {
-      "devicename": "Xiaomi Redmi 9",
-      "maintainer": "@henloboi"
+    "lava": {
+      "devicename": "Xiaomi Redmi 9 Prime/Poco M2",
+      "maintainer": "@henloboi @sparxfusion"
     },
     "davinci": {
       "devicename": "Xiaomi Redmi K20",
