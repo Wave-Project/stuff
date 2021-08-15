@@ -1,8 +1,9 @@
-- OOS-inspired UI:
+- OyxgenOS-inspired UI:
   - Accent color
   - OnePlus Slate and Sans fonts
   - SystemUI and core icons
   - Launcher widget
+  - Lockscreen clock
   - Notifications clear all button
   - QS tiles layout
   - Wifi/mobile data usage under QS
@@ -11,6 +12,7 @@
   - Traffic indicator for wifi and mobile data
   - Network speed indicator on statusbar
   - VoLTE/VoWiFi multi-sim icon
+  - Custom ringer vibration patterns
   - Refreshed and clean settings UI
   - Pocket mode dialog UI
   - Better looking gesture pill
@@ -30,20 +32,23 @@
   - LMKD and scudo optimizations
   - Performance improvements & fixes throughout the system
 
-- June security patch (android-11.0.0_r38 / qpr3)
+- August security patch (android-11.0.0_r40)
 - Official builds signed with our own private release keys
+- Vanilla and GApps-included builds available separately
 - Accent color, font, icon shape, icon pack, customization
 - Custom lockscreen clocks and launcher grid sizes
 - Sexy in-house WaveOS wallpapers included
 - SafetyNet passing without full fingerprint spoofing
 - Black dark theme
 - Statusbar icons tuner
-- Face unlock with apps authentication support
 - App locker
 - Pocket mode
 - Expandable volume panel
-- Lockscreen smartspace
-- Immersive navigation
+- Per-app volume control in volume panel
+- Face unlock with apps authentication support
+- New screenshot UI with long (scrolling) screenshot
+- Lockscreen smartspace (weather etc)
+- Immersive navigation (hide gesture pill)
 - 3-mode display cutout handler (Notch City)
 - 3 finger swipe to screenshot
 - Cycle through ringer modes
@@ -54,8 +59,9 @@
 - Reset battery stats option
 - Temperature display in battery settings
 - Hardware buttons and backlight customization
-- Refresh rate (min/max/powersave) options for supported devices
-- VOOC/WARP/DASH/fast charge indication on supported devices
+- Display color balance (RGB) control on all devices
+- Refresh rate controls (min/max/preferred/powersave) on supported devices
+- VOOC/WARP/DASH/OEM fast charge indication on supported devices
 - Advanced reboot (recovery/bootloader/system)
 - Horizon light aka pulse
 - Battery light toggle for charging and low battery
@@ -66,7 +72,8 @@
 - In-call vibration options
 - Gesture navigation back swipe deadzone
 - Navigation bar invert back and recents button
-- Disable notification sound when sreen on
+- Per-app cutout force fullscreen (for supported devices)
+- Disable notification sound when screen on
 - Toggle for using LTE icon instead of 4G
 - Bunch of useful QS tiles in addition to AOSP ones:
   - Caffeine
@@ -79,12 +86,15 @@
   - Reboot (system/recovery)
   - Headphones Buddy
 - New FOD icon and animations
+- Screen off FOD (for supported devices)
 - Lockscreen media art and blur level controls
 - Clear all and share button on recents
 - App suggestions and icon pack support in launcher
-- Improved statusbar pulldown blur
+- Kill app button in recent apps long press menu
+- Optimized blur strength and rendering
 - Added blur to launcher drawer and power menu
 - Double tap to sleep on statusbar, launcher, lockscreen
+- Removed restrictions for system audio in screen recorder
 - Finer control over font size
 - Mini panels for wifi, bluetooth, NFC
 - Per-app network restrictions
@@ -108,11 +118,12 @@
 - Disabled StrictMode debugging overhead
 - Few pixel features like assist disclosure, live captions
 - Google Play mainline system updates (on supported devices)
-- Switched to clang 12 with polly, O3 and ThinLTO (system-wide performance boost)
+- Added support for some proprietary chargers (dash, warp, vooc, qc3.5)
+- Switched to clang 12 with O3 and ThinLTO (system-wide performance improvement)
 - Reduced debugging overhead throughout the system
-- Cached app freezer to save power (on supported devices)
+- Cached apps freezer to save power (on supported devices)
+- Switched to zlib-ng and jemalloc for better performance
 - Dex-speed-preopt all apps for better performance
-- Global ThinLTO (Link Time Optimization) with Clang 12 
 - Optimizations and fixes from AOSPA, ProtonAOSP & upstream AOSP master
 - Included Simple Gallery instead of Google Photos
 - Something else which we might've missed :D
