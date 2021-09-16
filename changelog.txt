@@ -1,3 +1,24 @@
+Version 4.8
+
+- Merged September 2021 security patch (android-11.0.0_r43)
+- Updated GMS (gapps) to 11_202108 (August 2021)
+- Fixed safetynet CTS profile for all devices
+- Fixed google accounts signing out randomly
+- Fixed statusbar privacy indicators
+- Added wifi and bluetooth timeout option
+- Added primer blue accent color
+- Added support for microg location provider
+- Added support for device marketname
+- Properly enable gesture nav by default
+- Updated clang compiler to v12.0.8 (AOSP)
+- Updated some AOSP (vanilla) and prebuilt apps
+- Updated libjpeg_turbo and sqlite
+- Added LineageOS snap camera (for some devices)
+- Added NFC icon in statusbar
+- Added Google Sans/Roboto font combo
+- Fonts now apply system-wide
+- Misc optimizations and improvements
+
 Version 4.7
 
 - Merged July and August security patches (android-11.0.0_r39 & r40)
